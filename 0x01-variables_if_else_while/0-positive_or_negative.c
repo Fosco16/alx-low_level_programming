@@ -6,7 +6,7 @@
  * main - prints if the number is positive,negative or 0
  * Return: Always 0
  */
-int main(0-positive_or_negative.c)
+int main(void)
 {
 	int n;
 
