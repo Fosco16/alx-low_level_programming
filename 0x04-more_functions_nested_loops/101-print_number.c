@@ -36,7 +36,7 @@ void print_number(int n)
 	{
 		d *= 10;
 	}
-	for (i 0; i < c; i++)
+	for (i = 0; i < c; i++)
 	{
 		_putchar(y / d + '0');
 		y = y % d;
