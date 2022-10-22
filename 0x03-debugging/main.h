@@ -2,7 +2,8 @@
 #define MAIN_H
 
 #include <stdio.h>
-int largest_number(int a, int b, int c)
+
+int largest_number(int a, int b, int c);
 
 
 
